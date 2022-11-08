@@ -1,0 +1,18 @@
+.navbar-nav .nav-link, .navbar-brand, .btn-outline-secondary{
+    color: white;
+}
+
+.navbar-brand:hover,  .nav-link:hover{
+    color: rgb(177, 174, 174);
+    font-weight: 400;
+}
+
+body{
+    /* color: white; */
+    color: black;
+}
+
+.hamburger {
+    background-color: #ffffffe6;
+    border-radius: 6px;
+}
